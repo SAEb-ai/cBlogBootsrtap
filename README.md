@@ -1,2 +1,2 @@
 # cBlogBootsrtap
-This is webpage made from bootstrap 
+This webpage is made from bootstrap 
